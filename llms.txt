@@ -1,0 +1,33 @@
+# Buy Smart Toilet
+
+> Independent online store in Denver, Colorado for ANZZI smart toilets, electric and manual bidet seats, comfort-height (ADA height) toilets and upflush (macerating) toilets. Quote first: no online checkout; price, stock and delivery are confirmed in writing before any payment. Not the manufacturer.
+
+- Phone: 1-888-779-2284 (7am to 8pm Mountain, 7 days)
+- Quote form: https://buysmarttoilet.com/pages/contact/
+- Toilets ship by LTL freight to the curb; seats ship small parcel.
+- Prices on product pages were checked on the date shown and are confirmed in writing before payment. Manufacturer warranties are provided by ANZZI as described on each product page.
+- Product specifications come from ANZZI's product pages and spec sheets. Unpublished specs are not guessed.
+- Related: walk-in tubs and roll-in showers are quoted by Aging Safely Baths (https://www.agingsafelybaths.com/), machine-readable facts at https://www.agingsafelybaths.com/facts.json
+
+## Guides
+- [Smart toilet outlet requirements](https://buysmarttoilet.com/smart-toilet-outlet-requirements/): GFCI (NEC 210.8(A)(1)), the 20-amp bathroom circuit (NEC 210.11(C)(3)), cord reach, peak power draw, extension cords, power outages, a 10-minute check
+- [Smart toilet or bidet seat?](https://buysmarttoilet.com/smart-toilet-vs-bidet-seat/): when a bidet seat is enough and when a full smart toilet is worth it
+- [Choosing a toilet or bidet seat for an older adult](https://buysmarttoilet.com/smart-toilet-for-seniors/): seat height first, simple controls, caregiver checklist
+- [Round or elongated fit checker](https://buysmarttoilet.com/round-vs-elongated-toilet/): measure bolt-to-rim distance and see which seats fit
+- [Upflush toilets for basements](https://buysmarttoilet.com/upflush-toilet-basement/): how macerating toilets work and the three measurements that decide it
+
+## Products
+- [ANZZI ENVO Dia one-piece smart bidet toilet](https://buysmarttoilet.com/products/envo-dia-smart-bidet-toilet/): $1,249, TL-AZ19TWH, foot-sensor flush, UVC nozzle, emergency flush in outages
+- [ANZZI ENVO Echo tankless smart bidet toilet](https://buysmarttoilet.com/products/envo-echo-smart-bidet-toilet/): from $995, TL-STFF950 series, battery backup (battery not included)
+- [ANZZI Smart Bidet Seat 107](https://buysmarttoilet.com/products/anzzi-smart-bidet-seat-107/): $349, elongated or round
+- [ANZZI Smart Bidet Seat with auto lid](https://buysmarttoilet.com/products/anzzi-smart-bidet-seat-auto-lid/): $299, elongated or round
+- [ANZZI ENVO Dive electric bidet seat](https://buysmarttoilet.com/products/dive-smart-electric-bidet-seat/): $599.99, elongated
+- [ANZZI Minnow manual bidet seat](https://buysmarttoilet.com/products/minnow-manual-bidet-seat/): $149.99, non-electric, elongated
+- [ANZZI two-piece ADA comfort-height toilet](https://buysmarttoilet.com/products/anzzi-two-piece-ada-toilet/): $399, 1.28 GPF, elongated or round
+- [ANZZI Odin one-piece dual-flush toilet](https://buysmarttoilet.com/products/odin-one-piece-dual-flush-toilet/): $467.99
+- [ANZZI Nesso upflush macerating system](https://buysmarttoilet.com/products/nesso-upflush-macerating-toilet/): $699 to $1,299 by option, 26 ft vertical / 197 ft horizontal per ANZZI
+- [ANZZI XL Comfort round toilet seat](https://buysmarttoilet.com/products/xl-comfort-round-toilet-seat/): $99
+
+## Company
+- [About](https://buysmarttoilet.com/about/)
+- [Privacy](https://buysmarttoilet.com/privacy/)
